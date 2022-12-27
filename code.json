@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/4219079518",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/2905997840",
+        "NativeAdmob": "ca-app-pub-2120403233975259/1592916175",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5092557",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Choo-Choo Charles Review – Scary without trying",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Choo-Choo Charles",
+        "image": "https://tryhardguides.com/wp-content/uploads/2022/12/choo-choo-charles-promo-781x439.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There has been a huge trend lately of horror franchises that play off of childhood nostalgia. Arguably started by the success of Five Nights At Freddy’s, we’ve seen horror takes on such beloved franchises as Sesame Street, Spongebob, The Teletubbies, and even Garfield, each one introducing a trademark friendly version of a classic childhood icon with a creepy twist.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
